@@ -1,4 +1,4 @@
-https://dashboard.heroku.com/new?template=https://github.com/Wiki28/Wiki-Userbot
+https://dashboard.heroku.com/new?template=https://github.com/Wiki28/WIKI-UBOT
 
 # Man-Userbot Telegram
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/mrismanaziz/Man-Userbot)
