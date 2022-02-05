@@ -161,7 +161,7 @@ UPSTREAM_REPO_URL = os.environ.get(
 )
 
 # Custom Name Sticker Pack
-S_PACK_NAME = os.environ.get("S_PACK_NAME", "Sticker Pack by @Hanya_W")
+S_PACK_NAME = os.environ.get("S_PACK_NAME", "Sticker Pack by @Wiki_W")
 
 # SQL Database URI
 DB_URI = os.environ.get("DATABASE_URL", None)
@@ -561,7 +561,7 @@ with bot:
                     description="Repository Wiki - Userbot",
                     url="https://t.me/WikiTapiGroup",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
-                    text="**Wiki - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [Wiki W](https://t.me/Hanya_W)\n✣ **Support :** @WikiTapiChannel\n✣ **Repository :** [Wiki-Userbot](https://github.com/Wiki28/Wiki-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**Wiki - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [Wiki W](https://t.me/Wiki_W)\n✣ **Support :** @WikiTapiChannel\n✣ **Repository :** [Wiki-Userbot](https://github.com/Wiki28/Wiki-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/WikiTapiGroup"),
